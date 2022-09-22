@@ -17,5 +17,6 @@
 2.1area of circle,triangle,square,rectangle.cpp
 2.2ARTHEMATIC OPERATIONS.cpp
 2.3swaping two numbers.cpp
+2.5employee info.cpp
 2.6VOTING ELGIBILITY.cpp
 2.7VOTING ELGIBILITY.cpp
