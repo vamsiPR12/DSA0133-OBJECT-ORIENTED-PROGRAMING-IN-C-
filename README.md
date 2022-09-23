@@ -14,9 +14,23 @@
 1.13sum of n digits.cpp
 1.14amstrong number or not.cpp
 1.15removing vowels from string.cpp
+1.18 removeing duplicates.cpp
 2.1area of circle,triangle,square,rectangle.cpp
 2.2ARTHEMATIC OPERATIONS.cpp
 2.3swaping two numbers.cpp
 2.5employee info.cpp
 2.6VOTING ELGIBILITY.cpp
 2.7VOTING ELGIBILITY.cpp
+2.9 simple intrest.cpp
+2.12 total and aggregate marks.cpp
+2.13 reverce the number.cpp
+2.15 electricity bill.cpp
+2.18 swapping by call by reference.cpp
+3.1 student class.cpp
+3.2 rectangle with two data members.cpp
+3.3 piggie bank.cpp
+3.6 integer and character.cpp
+3.8 name,age,address of 10 students.cpp
+3.9 graduate.cpp
+3.10 bank balance.cpp
+3.11 print num.cpp
