@@ -33,4 +33,15 @@
 3.8 name,age,address of 10 students.cpp
 3.9 graduate.cpp
 3.10 bank balance.cpp
+d4 program 1.cpp
+d4 program 4.cpp
+d4 program 7.cpp
+d4 program 56.cpp
+d4 progream 2.cpp
+d5 program 1.cpp
+d5 program 2.cpp
+d5 program 4.cpp
+d5 program 5.cpp
+d5 program 6.cpp
+d5 program 7.cpp
 3.11 print num.cpp
